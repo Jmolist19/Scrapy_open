@@ -1,0 +1,6 @@
+Realizado con colab
+
+Requisitos Intalacion:
+ 
+requests html:pip install requests_html
+panda: pip intall panda 
